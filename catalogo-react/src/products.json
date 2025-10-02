@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ejemplo Producto Vintage",
+      "quantity": 5,
+      "price": 15000,
+      "category": "Adornos",
+      "images": [],
+      "videos": []
+    }
+  ],
+  "categories": [
+    "Todas",
+    "Adornos",
+    "Libretas",
+    "Relojes de arena"
+  ]
+}
